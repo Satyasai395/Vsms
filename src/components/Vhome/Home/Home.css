@@ -1,0 +1,24 @@
+.home{
+    padding: 250px;
+    height: 740px;
+    background: url('../../Asserts/photo.jpg');
+    filter: brightness(0.8);
+    background-size: cover;
+}
+.home p{
+    font-size:larger;
+    color: rgb(255, 166, 0);
+    font-weight:900;
+}
+.home h1 {
+   
+   color: white;
+   font-size: 4em;
+}
+.btnn{
+    margin-top: 30px;
+    width: 100px;
+    height: 45px;
+    border-radius: 7px;
+    background-color: rgba(235, 172, 0, 0.904);
+}
